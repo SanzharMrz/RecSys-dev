@@ -1,4 +1,4 @@
-# Implementation of a contextual recommendation system
+# Demo implementation of a contextual recommendation system
 
 - __Docs__ - Directory with _txt_ and _pptx_ thoughts about architecture and realisation
 - __Demo implementation__ - Directory with _ipynb_ files:
